@@ -1,0 +1,28 @@
+# This is where things go before we decide where best to categorize them.
+
+- https://owasp.org/www-project-vulnerable-web-applications-directory/
+- https://github.com/chuckfw/owaspbwa
+- https://www.apachefriends.org/
+- https://github.com/digininja/CeWL
+- https://github.com/digininja/DVWA
+- https://github.com/digininja/pipal
+- https://www.pentesting.org/docker-security-lab/
+- https://owasp.org/www-project-docker-top-10/
+- https://digi.ninja/
+- https://github.com/digininja/DVWA/blob/c6e3d05c503cc6c02feccfe78cab5b4b747ba83d/Dockerfile
+- https://matrix.org/
+- https://app.gitter.im/#/login
+- https://keybase.io/terminator
+- https://github.com/opsxcq
+- https://strm.sh/projects/
+- https://www.avastack.com/post/install-dvwa-using-docker
+- https://micahs0day.github.io/Blue_Team_Stuff/
+- https://www.blackhillsinfosec.com/free-cybersecurity-tools/
+- https://github.com/strandjs/IntroLabs/tree/master
+- https://www.blackhillsinfosec.com/
+- https://www.blackhillsinfosec.com/pyfunnels-data-normalization-for-infosec-workflows/
+- https://github.com/JohnHammond/labs
+- https://www.youtube.com/watch?v=N5xhOqlvRh4
+- https://www.justhacking.com/
+- https://www.youtube.com/watch?v=5Di0VVK9JiQ&t=350s
+- https://dashboard.caido.io/
