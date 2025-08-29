@@ -31,4 +31,9 @@
 - https://www.kali.org/tools/cewl/
 - https://www.antisyphontraining.com/on-demand-courses/
 - https://spearphish-general-store.myshopify.com/collections/rekcah-clothing
+- https://marketplace.visualstudio.com/items?itemName=github.vscode-codeql
+- https://owasp.org/www-community/Source_Code_Analysis_Tools
+- https://www.zaproxy.org/
+- https://owasp.org/www-project-purpleteam/
+- https://github.com/RetireJS/retire.js
 - 
