@@ -26,3 +26,9 @@
 - https://www.justhacking.com/
 - https://www.youtube.com/watch?v=5Di0VVK9JiQ&t=350s
 - https://dashboard.caido.io/
+- https://owasp.org/www-community/Free_for_Open_Source_Application_Security_Tools
+- https://github.com/caido
+- https://www.kali.org/tools/cewl/
+- https://www.antisyphontraining.com/on-demand-courses/
+- https://spearphish-general-store.myshopify.com/collections/rekcah-clothing
+- 
