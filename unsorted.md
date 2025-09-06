@@ -39,3 +39,9 @@
 - https://theretroweb.com/
 - https://github.com/anderspitman/awesome-tunneling
 - https://pinggy.io/blog/best_ngrok_alternatives/
+- https://www.infosecinstitute.com/resources/penetration-testing/penetration-testing-tor-vpn-or-proxy/
+- https://www.webasha.com/blog/tor-browser-in-cybersecurity-exploring-the-deep-and-dark-web-anonymously-ethical-uses-risks-advanced-search-techniques-and-real-world-applications
+- https://github.com/anderspitman/SirTunnel?tab=readme-ov-file#running-the-server
+- https://blog.openziti.io/minecraft-over-zrok
+- https://tunnelmole.com/docs/#installation
+- https://pinggy.io/blog/best_ngrok_alternatives/
