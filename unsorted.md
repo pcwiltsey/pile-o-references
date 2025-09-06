@@ -37,3 +37,5 @@
 - https://owasp.org/www-project-purpleteam/
 - https://github.com/RetireJS/retire.js
 - https://theretroweb.com/
+- https://github.com/anderspitman/awesome-tunneling
+- https://pinggy.io/blog/best_ngrok_alternatives/
